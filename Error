@@ -1,0 +1,306 @@
+LOG  : Lua         , 1702518337785> Loading: media/lua/shared/Sandbox/Apocalypse.lua
+LOG  : General     , 1702518337991> [EasyConfigChucked] 	ECC: OnMainMenuEnter
+LOG  : General     , 1702518337993> EXITDEBUG: MainScreenState.enter 2
+LOG  : General     , 1702518340105> EXITDEBUG: onMenuItemMouseDownMainMenu 1 (item=COOP)
+ERROR: General     , 1702518344421> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518344435> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518344487> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518344961> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518344978> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518344987> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518344995> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345006> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345009> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345013> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345024> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345029> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345032> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345043> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345051> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345051> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345064> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345075> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345075> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345084> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345094> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345095> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345110> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345114> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345114> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345130> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345134> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345136> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345149> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345152> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345155> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345168> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345168> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345171> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345186> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345229> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345262> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345273> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345275> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345275> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345290> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345299> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345301> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345313> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345315> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345319> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345331> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345332> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345336> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345346> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345348> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345353> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345364> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345366> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345370> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345380> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Body"
+ERROR: General     , 1702518345535> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345535> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345536> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345536> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345536> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345536> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345536> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345536> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345536> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345536> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345537> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345537> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345537> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345537> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345537> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345537> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345537> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345537> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345537> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345538> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345538> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345538> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345538> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345538> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345538> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345538> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345538> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345539> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345539> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345539> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light"
+ERROR: General     , 1702518345539> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345539> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345539> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345539> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345539> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345539> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345539> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345540> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345540> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345540> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345540> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345540> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345540> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345540> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345540> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345541> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345541> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345541> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345541> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345541> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345541> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345541> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345541> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345541> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345542> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345543> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345543> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345543> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345543> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345543> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera"
+ERROR: General     , 1702518345543> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345544> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345544> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345544> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345544> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345544> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345544> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345544> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345545> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345545> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345545> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345545> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345545> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345545> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345545> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345545> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345546> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345546> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345546> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345546> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345546> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345547> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345547> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345547> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345547> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345547> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345547> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345547> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345548> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345548> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Light.001"
+ERROR: General     , 1702518345548> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345548> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345548> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345548> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345548> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345548> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345548> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345549> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345549> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345549> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345549> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345549> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345549> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345549> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345549> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345550> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345550> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345550> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345550> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345550> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345550> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345551> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345551> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345551> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345551> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345551> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345551> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345552> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345552> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518345552> ImportedSkeleton.collectBoneFrames> Could not find bone index for node name: "Camera.001"
+ERROR: General     , 1702518359698> java.util.zip.ZipException: invalid END header (bad central directory offset)
+ERROR: General     , 1702518359698> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.initCEN(Unknown Source)
+ERROR: General     , 1702518359698> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.<init>(Unknown Source)
+ERROR: General     , 1702518359698> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystemProvider.getZipFileSystem(Unknown Source)
+ERROR: General     , 1702518359698> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystemProvider.newFileSystem(Unknown Source)
+ERROR: General     , 1702518359698> 	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source)
+ERROR: General     , 1702518359699> 	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source)
+ERROR: General     , 1702518359699> 	at zombie.core.logger.ZipLogs.addZipFile(ZipLogs.java:30)
+ERROR: General     , 1702518359699> 	at zombie.network.CoopMaster.launchServer(CoopMaster.java:164)
+ERROR: General     , 1702518359699> 	at zombie.network.CoopMaster.launchServer(CoopMaster.java:88)
+ERROR: General     , 1702518359699> 	at zombie.network.CoopMaster$1.call(CoopMaster.java:396)
+ERROR: General     , 1702518359699> 	at se.krka.kahlua.vm.KahluaThread.callJava(KahluaThread.java:182)
+ERROR: General     , 1702518359699> 	at se.krka.kahlua.vm.KahluaThread.luaMainloop(KahluaThread.java:1007)
+ERROR: General     , 1702518359699> 	at se.krka.kahlua.vm.KahluaThread.call(KahluaThread.java:163)
+ERROR: General     , 1702518359699> 	at se.krka.kahlua.vm.KahluaThread.pcall(KahluaThread.java:1980)
+ERROR: General     , 1702518359699> 	at se.krka.kahlua.vm.KahluaThread.pcallBoolean(KahluaThread.java:1924)
+ERROR: General     , 1702518359699> 	at se.krka.kahlua.integration.LuaCaller.protectedCallBoolean(LuaCaller.java:104)
+ERROR: General     , 1702518359699> 	at zombie.ui.UIElement.onMouseUp(UIElement.java:1228)
+ERROR: General     , 1702518359699> 	at zombie.ui.UIElement.onMouseUp(UIElement.java:1183)
+ERROR: General     , 1702518359699> 	at zombie.ui.UIElement.onMouseUp(UIElement.java:1183)
+ERROR: General     , 1702518359699> 	at zombie.ui.UIManager.update(UIManager.java:816)
+ERROR: General     , 1702518359699> 	at zombie.GameWindow.logic(GameWindow.java:262)
+ERROR: General     , 1702518359700> 	at zombie.core.profiling.AbstractPerformanceProfileProbe.invokeAndMeasure(AbstractPerformanceProfileProbe.java:71)
+ERROR: General     , 1702518359700> 	at zombie.GameWindow.frameStep(GameWindow.java:765)
+ERROR: General     , 1702518359700> 	at zombie.GameWindow.run_ez(GameWindow.java:667)
+ERROR: General     , 1702518359700> 	at zombie.GameWindow.mainThread(GameWindow.java:495)
+ERROR: General     , 1702518359700> 	at java.base/java.lang.Thread.run(Unknown Source)
+LOG  : General     , 1702518359937> SERVER: info@coop mode enabled
+LOG  : General     , 1702518359938> SERVER: status@UI_ServerStatus_Initialising
+LOG  : General     , 1702518368542> SERVER: status@UI_ServerStatus_CreateBackup
+LOG  : General     , 1702518380876> SERVER: status@UI_ServerStatus_Initialising
+LOG  : General     , 1702518443749> SERVER: process-status@terminated
+ERROR: General     , 1702518443751> java.util.zip.ZipException: invalid END header (bad central directory offset)
+ERROR: General     , 1702518443751> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.initCEN(Unknown Source)
+ERROR: General     , 1702518443751> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.<init>(Unknown Source)
+ERROR: General     , 1702518443751> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystemProvider.getZipFileSystem(Unknown Source)
+ERROR: General     , 1702518443751> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystemProvider.newFileSystem(Unknown Source)
+ERROR: General     , 1702518443751> 	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source)
+ERROR: General     , 1702518443751> 	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source)
+ERROR: General     , 1702518443752> 	at zombie.core.logger.ZipLogs.addZipFile(ZipLogs.java:30)
+ERROR: General     , 1702518443752> 	at zombie.network.CoopMaster.readServer(CoopMaster.java:243)
+ERROR: General     , 1702518443752> 	at java.base/java.lang.Thread.run(Unknown Source)
+ERROR: General     , 1702518480111> java.util.zip.ZipException: invalid END header (bad central directory offset)
+ERROR: General     , 1702518480112> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.initCEN(Unknown Source)
+ERROR: General     , 1702518480112> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.<init>(Unknown Source)
+ERROR: General     , 1702518480112> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystemProvider.getZipFileSystem(Unknown Source)
+ERROR: General     , 1702518480112> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystemProvider.newFileSystem(Unknown Source)
+ERROR: General     , 1702518480112> 	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source)
+ERROR: General     , 1702518480112> 	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source)
+ERROR: General     , 1702518480112> 	at zombie.core.logger.ZipLogs.addZipFile(ZipLogs.java:30)
+ERROR: General     , 1702518480112> 	at zombie.network.CoopMaster.launchServer(CoopMaster.java:164)
+ERROR: General     , 1702518480112> 	at zombie.network.CoopMaster.launchServer(CoopMaster.java:88)
+ERROR: General     , 1702518480112> 	at zombie.network.CoopMaster$1.call(CoopMaster.java:396)
+ERROR: General     , 1702518480112> 	at se.krka.kahlua.vm.KahluaThread.callJava(KahluaThread.java:182)
+ERROR: General     , 1702518480112> 	at se.krka.kahlua.vm.KahluaThread.luaMainloop(KahluaThread.java:1007)
+ERROR: General     , 1702518480112> 	at se.krka.kahlua.vm.KahluaThread.call(KahluaThread.java:163)
+ERROR: General     , 1702518480113> 	at se.krka.kahlua.vm.KahluaThread.pcall(KahluaThread.java:1980)
+ERROR: General     , 1702518480113> 	at se.krka.kahlua.vm.KahluaThread.pcallBoolean(KahluaThread.java:1924)
+ERROR: General     , 1702518480113> 	at se.krka.kahlua.integration.LuaCaller.protectedCallBoolean(LuaCaller.java:104)
+ERROR: General     , 1702518480113> 	at zombie.ui.UIElement.onMouseUp(UIElement.java:1228)
+ERROR: General     , 1702518480113> 	at zombie.ui.UIElement.onMouseUp(UIElement.java:1183)
+ERROR: General     , 1702518480113> 	at zombie.ui.UIElement.onMouseUp(UIElement.java:1183)
+ERROR: General     , 1702518480113> 	at zombie.ui.UIManager.update(UIManager.java:816)
+ERROR: General     , 1702518480113> 	at zombie.GameWindow.logic(GameWindow.java:262)
+ERROR: General     , 1702518480113> 	at zombie.core.profiling.AbstractPerformanceProfileProbe.invokeAndMeasure(AbstractPerformanceProfileProbe.java:71)
+ERROR: General     , 1702518480113> 	at zombie.GameWindow.frameStep(GameWindow.java:765)
+ERROR: General     , 1702518480113> 	at zombie.GameWindow.run_ez(GameWindow.java:667)
+ERROR: General     , 1702518480113> 	at zombie.GameWindow.mainThread(GameWindow.java:495)
+ERROR: General     , 1702518480113> 	at java.base/java.lang.Thread.run(Unknown Source)
+LOG  : General     , 1702518480336> SERVER: info@coop mode enabled
+LOG  : General     , 1702518480336> SERVER: status@UI_ServerStatus_Initialising
+LOG  : General     , 1702518488640> SERVER: status@UI_ServerStatus_CreateBackup
+LOG  : General     , 1702518501474> SERVER: status@UI_ServerStatus_Initialising
+LOG  : General     , 1702518567949> SERVER: process-status@terminated
+ERROR: General     , 1702518567951> java.util.zip.ZipException: invalid END header (bad central directory offset)
+ERROR: General     , 1702518567951> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.initCEN(Unknown Source)
+ERROR: General     , 1702518567951> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.<init>(Unknown Source)
+ERROR: General     , 1702518567952> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystemProvider.getZipFileSystem(Unknown Source)
+ERROR: General     , 1702518567952> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystemProvider.newFileSystem(Unknown Source)
+ERROR: General     , 1702518567952> 	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source)
+ERROR: General     , 1702518567952> 	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source)
+ERROR: General     , 1702518567952> 	at zombie.core.logger.ZipLogs.addZipFile(ZipLogs.java:30)
+ERROR: General     , 1702518567952> 	at zombie.network.CoopMaster.readServer(CoopMaster.java:243)
+ERROR: General     , 1702518567952> 	at java.base/java.lang.Thread.run(Unknown Source)
+ERROR: General     , 1702518883857> java.util.zip.ZipException: invalid END header (bad central directory offset)
+ERROR: General     , 1702518883857> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.initCEN(Unknown Source)
+ERROR: General     , 1702518883857> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.<init>(Unknown Source)
+ERROR: General     , 1702518883857> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystemProvider.getZipFileSystem(Unknown Source)
+ERROR: General     , 1702518883857> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystemProvider.newFileSystem(Unknown Source)
+ERROR: General     , 1702518883857> 	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source)
+ERROR: General     , 1702518883857> 	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source)
+ERROR: General     , 1702518883857> 	at zombie.core.logger.ZipLogs.addZipFile(ZipLogs.java:30)
+ERROR: General     , 1702518883857> 	at zombie.network.CoopMaster.launchServer(CoopMaster.java:164)
+ERROR: General     , 1702518883857> 	at zombie.network.CoopMaster.launchServer(CoopMaster.java:88)
+ERROR: General     , 1702518883858> 	at zombie.network.CoopMaster$1.call(CoopMaster.java:396)
+ERROR: General     , 1702518883858> 	at se.krka.kahlua.vm.KahluaThread.callJava(KahluaThread.java:182)
+ERROR: General     , 1702518883858> 	at se.krka.kahlua.vm.KahluaThread.luaMainloop(KahluaThread.java:1007)
+ERROR: General     , 1702518883858> 	at se.krka.kahlua.vm.KahluaThread.call(KahluaThread.java:163)
+ERROR: General     , 1702518883858> 	at se.krka.kahlua.vm.KahluaThread.pcall(KahluaThread.java:1980)
+ERROR: General     , 1702518883858> 	at se.krka.kahlua.vm.KahluaThread.pcallBoolean(KahluaThread.java:1924)
+ERROR: General     , 1702518883858> 	at se.krka.kahlua.integration.LuaCaller.protectedCallBoolean(LuaCaller.java:104)
+ERROR: General     , 1702518883858> 	at zombie.ui.UIElement.onMouseUp(UIElement.java:1228)
+ERROR: General     , 1702518883858> 	at zombie.ui.UIElement.onMouseUp(UIElement.java:1183)
+ERROR: General     , 1702518883858> 	at zombie.ui.UIElement.onMouseUp(UIElement.java:1183)
+ERROR: General     , 1702518883858> 	at zombie.ui.UIManager.update(UIManager.java:816)
+ERROR: General     , 1702518883858> 	at zombie.GameWindow.logic(GameWindow.java:262)
+ERROR: General     , 1702518883858> 	at zombie.core.profiling.AbstractPerformanceProfileProbe.invokeAndMeasure(AbstractPerformanceProfileProbe.java:71)
+ERROR: General     , 1702518883858> 	at zombie.GameWindow.frameStep(GameWindow.java:765)
+ERROR: General     , 1702518883859> 	at zombie.GameWindow.run_ez(GameWindow.java:667)
+ERROR: General     , 1702518883859> 	at zombie.GameWindow.mainThread(GameWindow.java:495)
+ERROR: General     , 1702518883859> 	at java.base/java.lang.Thread.run(Unknown Source)
+LOG  : General     , 1702518884093> SERVER: info@coop mode enabled
+LOG  : General     , 1702518884093> SERVER: status@UI_ServerStatus_Initialising
+LOG  : General     , 1702518892923> SERVER: status@UI_ServerStatus_CreateBackup
+LOG  : General     , 1702518903992> SERVER: status@UI_ServerStatus_Initialising
+LOG  : General     , 1702518966441> SERVER: process-status@terminated
+ERROR: General     , 1702518966442> java.util.zip.ZipException: invalid END header (bad central directory offset)
+ERROR: General     , 1702518966442> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.initCEN(Unknown Source)
+ERROR: General     , 1702518966442> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.<init>(Unknown Source)
+ERROR: General     , 1702518966442> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystemProvider.getZipFileSystem(Unknown Source)
+ERROR: General     , 1702518966442> 	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystemProvider.newFileSystem(Unknown Source)
+ERROR: General     , 1702518966442> 	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source)
+ERROR: General     , 1702518966442> 	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source)
+ERROR: General     , 1702518966442> 	at zombie.core.logger.ZipLogs.addZipFile(ZipLogs.java:30)
+ERROR: General     , 1702518966442> 	at zombie.network.CoopMaster.readServer(CoopMaster.java:243)
+ERROR: General     , 1702518966442> 	at java.base/java.lang.Thread.run(Unknown Source)
